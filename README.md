@@ -1,6 +1,17 @@
 ### Vim config for web development
 
-<img src="http://i.imgur.com/ElOEHZ3.png"/>
+__Solarized Dark - iTerm2__
+![solarized dark - iTerm2 2.9.20150715-nightly
+](https://cloud.githubusercontent.com/assets/3759759/8729390/b4cac3de-2bf3-11e5-9a40-16050a1ddb3f.png)
+
+[__Panic Palette - iTerm2__](https://twitter.com/panic/status/558389225612005376)
+![Panic Palette - iTerm2 2.9.20150715-nightly](https://cloud.githubusercontent.com/assets/3759759/8729413/cce9e788-2bf3-11e5-8169-e4b603761377.png)
+
+### Themes
+* [`zdj/themes`](https://github.com/zdj/themes)
+* [`chriskempson/tomorrow-theme`](https://github.com/chriskempson/tomorrow-theme)
+* [`zenorocha/dracula-theme`](https://github.com/zenorocha/dracula-theme)
+* [`Panic Palette`](https://twitter.com/panic/status/558389225612005376)
 
 ### Features
 * Only one file, you don't need to run any installation script.
@@ -144,7 +155,7 @@ Provides advanced javascript features like Smart variable rename, Find variable 
 
 To install just clone the repo, and place symlink to .vimrc in your home directory. E.g.:
 ```bash
-git clone https://github.com/denji/vim-config.git && ln -s ~/vim-config/.vimrc ~/
+git clone https://github.com/denji/vim-config-frontend.git && ln -s ~/vim-config-frontend/.vimrc ~/
 ```
 [NPM](http://en.wikipedia.org/wiki/Npm_(software)) is required for some features.
 
