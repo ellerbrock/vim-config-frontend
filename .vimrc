@@ -201,6 +201,9 @@ NeoBundle 'kana/vim-arpeggio'
 " But not necessary with syntastics
 " NeoBundle 'walm/jshint.vim'
 
+" Go development plugin for Vim
+NeoBundle 'fatih/vim-go'
+
 call neobundle#end()
 
 " Enable Indent in plugins
